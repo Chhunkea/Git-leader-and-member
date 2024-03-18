@@ -1,6 +1,6 @@
 def main(n):
     return n + 1
 
-n = 0
+n = 1
 
 print(main(n))
